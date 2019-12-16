@@ -8,7 +8,7 @@ Freely usable as training data for speech recognition and speech synthesis.
 
 Tensorflow pre-trained model for deepspeech.
 
-DEEPSPEECH REPO
+DEEPSPEECH VERSION: 0.4.1
 https://github.com/mozilla/DeepSpeech
 
 154 samples failed upon conversion
