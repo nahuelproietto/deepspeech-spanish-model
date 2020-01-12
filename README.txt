@@ -1,5 +1,5 @@
 M-AILABS Spanish Corpus - es_ES - Español Ibérico
-http://www.caito.de/data/Training/stt_tts/es_ES.tg
+http://www.caito.de/data/Training/stt_tts/
 
 108 hours and 34 minutes of annotated spanish.
 
