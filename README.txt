@@ -1,6 +1,9 @@
 -----------------------------------
 This repo is no longer maintained.
 -----------------------------------
+SWITCH TO LATEST VERSION:
+https://github.com/nahuelproietto/deepspeech-spanish-model/issues/7
+-----------------------------------
 
 M-AILABS Spanish Corpus - es_ES - Español Ibérico
 http://www.caito.de/data/Training/stt_tts/
