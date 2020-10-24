@@ -1,3 +1,7 @@
+-----------------------------------
+This repo is no longer maintained.
+-----------------------------------
+
 M-AILABS Spanish Corpus - es_ES - Español Ibérico
 http://www.caito.de/data/Training/stt_tts/
 
